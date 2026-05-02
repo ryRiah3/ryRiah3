@@ -10,7 +10,8 @@
 
 <!-- 
 2. A bio or introduction about yourself. This should include info like what you are going to school to learn and what you hope to do after graduation, what you enjoy in terms of coding, your technical skills, and hobbies. -->
-
+### Bio
+My name is Mariah Nelson. I am a GIT major with a primary focus on motion graphics and visual effects. I hope to learn more about coding techniques, languages, and application skills. I have experience working with JavaScript. I’ve worked with HTML and CSS to create and manipulate websites. My favorite part about coding is CSS. Overall, having the ability to turn a blank white screen into anything. After graduation, I have no idea what kind of work I want to do. The industry I am most interested in is architecture. A fun fact about me is that I enjoy applying special effect makeup, mostly for horror looks. I adore all things eerie or related to Tim Burton!
 
 
 <!--
