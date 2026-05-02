@@ -16,9 +16,9 @@
 <!--
 3. If you have accounts on CodePen, Behance, LinkedIn, or another site where you share your work, link to them from your profile. You do not need to link to personal social media or other accounts. -->
 ## Projects && Links
-🔗 CodePen: https://codepen.io/ryRiah3
-🌐 Behance: https://www.behance.net/ryRiah3
-💼 LinkedIn: https://www.linkedin.com/in/mariah-nelson-/
+🔗 CodePen: https://codepen.io/ryRiah3 <br>
+🌐 Behance: https://www.behance.net/ryRiah3 <br>
+💼 LinkedIn: https://www.linkedin.com/in/mariah-nelson-/ <br>
 
 <!--
 4. A profile image (this is just added through updating your actual profile, not the repository).-->
