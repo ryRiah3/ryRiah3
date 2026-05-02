@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello 👋
 
 <!--
 **ryRiah3/ryRiah3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -15,7 +15,7 @@
 
 <!--
 3. If you have accounts on CodePen, Behance, LinkedIn, or another site where you share your work, link to them from your profile. You do not need to link to personal social media or other accounts. -->
-# Projects & Links
+### Projects & Links
 🔗 CodePen: https://codepen.io/ryRiah3 <br>
 🌐 Behance: https://www.behance.net/ryRiah3 <br>
 💼 LinkedIn: https://www.linkedin.com/in/mariah-nelson-/ <br>
