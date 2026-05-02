@@ -25,8 +25,11 @@ I enjoy a few different activities in my free time, including basketball, call o
 <!--
 1. Either a widget that shows some information based on your profile similar to the one you can see on my profile page that shows how many commits I have made in the last year, how many stars I have, etc. OR an image included in the README itself (not just your profile photo).-->
 # GitHub
+### Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=ryRiah3&include_all_commits=true&count_private=true&show_icons=true "GitHub Stats")
 
+### Image
+![image](drawingYou.png)
 <!--
 4. A profile image (this is just added through updating your actual profile, not the repository).-->
 
