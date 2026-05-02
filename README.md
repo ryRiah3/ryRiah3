@@ -5,7 +5,7 @@
 
 <!--
 1. Either a widget that shows some information based on your profile similar to the one you can see on my profile page that shows how many commits I have made in the last year, how many stars I have, etc. OR an image included in the README itself (not just your profile photo).-->
-
+![github stats](https://github-readme-stats.vercel.app/api?username=ryRiah3&include_all_commits=true&count_private=true&show_icons=true "GitHub Stats")
 
 
 <!-- 
